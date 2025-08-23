@@ -7,6 +7,15 @@ Metanoia also integrates **AI-driven matching, referrals, and automation** to cr
 
 ---
 
+## 📢 Status
+⚠️ This app is currently **in progress** and not yet live.  
+👉 All **ideas, design, flow, features, and logic were conceptualized by me**.  
+👉 The app code is being developed with AI assistance to speed up execution.  
+💡 In the near future, expect Metanoia to evolve into a **new generation hiring platform**.  
+
+
+---
+
 ## 🌟 Features  
 
 - 🔐 **Firebase Authentication** – secure sign-in system.  
@@ -102,10 +111,11 @@ Metanoia also integrates **AI-driven matching, referrals, and automation** to cr
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/metanoia.git  
+git clone https://github.com/ujwal1616/metanoia.git  
 
 # Navigate into project
-cd metanoia  
+cd metanoia
+
 
 # Install dependencies
 npm install  
