@@ -61,7 +61,7 @@ Metanoia also integrates **AI-driven matching, referrals, and automation** to cr
     - Skills  
     - Experience  
     - Recruiter preferences  
-  - Future: expand with **NLP + ML** for deeper resume & job description analysis.  
+  - Future: expand with **NLP + ML** for deeper resume & job description analysis.   
 
 - **Referral Limiter**  
   - `todayKey` system → **1 free referral/day**.  
