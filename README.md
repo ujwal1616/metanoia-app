@@ -1,7 +1,7 @@
 # Metanoia 🚀  
 
 Metanoia is a **mobile-first job matching app** that reimagines how **job seekers** and **HR/recruiters** connect.  
-Think of it as a **Tinder for jobs** – swipe, match, and chat your way into the perfect opportunity or hire.  
+Think of it as a **Tinder for jobs** – swipe, match, and chat your way into the perfect opportunity or hire.   
 
 Metanoia also integrates **AI-driven matching, referrals, and automation** to create a modern recruitment experience.  
  
